@@ -75,7 +75,7 @@ class Scrappy:
         self.mail.Body = '''
         Segue em anexo o Relatório de preços dos celulares, conforme solicitado.
         Qualquer dúvida estou à disposição.
-        Att. Rayssa.
+        Att.,
         '''
         self.attachment = self.caminho + r'\Relatorio_celulares.xlsx'
         self.mail.Attachments.Add(self.attachment)
