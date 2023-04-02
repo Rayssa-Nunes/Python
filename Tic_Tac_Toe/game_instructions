@@ -1,0 +1,26 @@
+
+
+
+        Tic Tac Toe é o famoso 'Jogo da velha'
+
+     >> COMO FUNCIONA O JOGO?
+
+        Nesse jogo, participam duas pessoas, que jogam alternadamente, preenchendo cada um dos espaços vazios.
+
+        Cada participante deve usar um símbolo ( X ou O ). Vence o jogador que conseguir formar primeiro uma linha
+        com três simbolos iguais, seja na horizontal, vertical ou diagonal.
+
+
+    >> COMO DEVO PROCEDER OS ARQUIVOS DO JOGO?
+
+        Você deve abrir primeiro o arquivo nomeado ui.pi, é nele que está nosso servidor, logo em seguida abra o arquivo
+        ui2.py, nele está nosso cliente.
+
+        O jogo será entre o servidor ( host_game ) e o cliente ( connect_to_game ).
+
+        Você deve digitar um número para a linha ( row ) aperta < enter > e digita outro número para a coluna ( col ).
+        Os números devem estar entre 0, 1 e 2, tanto pra linha quanto para a coluna.
+
+        OBS: Numerei as linhas e as colunas para facilitar um pouco...
+
+
